@@ -1,0 +1,2 @@
+# IMD
+Inventory management dashboard
